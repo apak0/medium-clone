@@ -1,0 +1,44 @@
+.medium-logo{
+    width: 160px;
+    height: 25px;
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.start-recording-btn{
+    border-radius: 20px;
+}
+.stay{
+   font-family: Georgia,  "Times New Roman", Times, serif;
+   
+   line-height: 95px;
+   font-size: 106px;
+   font-weight: 400;
+}
+
+.discover>h3{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.img-content>img{
+    height: 455px;  
+    width: 455px;
+
+}
+
+.get-started-btn{
+    border-radius: 99em;
+}
+
+.container-trend{
+    font-size: 16px;
+}
